@@ -134,8 +134,6 @@
 
 # 영상자료
 
-<img src="./img/문명6.PNG" width="50%">  
-
 > 고스톱 유니티 관련 영상자료  
 
 [출처: users unity](https://www.youtube.com/watch?v=fZAH-63qk_E)
@@ -506,10 +504,10 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 <br><br>  
 
 ## 키보드 이벤트에 대한 흐름도  
-<img src="./img/키보드이벤트1.PNG" width= "80%">
+<img src="./img/키보드이벤트1.png" width= "80%">
 
 ## 용어정리  
-<img src="./img/용어정리사진.PNG" width= "80%">
+<img src="./img/용어정리사진.png" width= "80%">
 
 ## 12주간 계획표  
 
