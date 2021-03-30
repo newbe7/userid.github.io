@@ -496,7 +496,6 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 3. Monster 기능 요구사항
 - Monster 방향전환 기능이 있어야한다.
 - Monster  jump 기능이 있어야한다.
-- Monster  기능이 있어야한다.
 - Monster  Rigidbody 기능이 있어야한다.
 - Monster  Attack 기능이 있어야한다.
 - Monster  weapon upgrade 기능이 있어야한다. 
